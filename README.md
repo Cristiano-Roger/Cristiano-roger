@@ -23,6 +23,6 @@
   <a href = "mailto:cristianoroger20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
   <a href="https://www.linkedin.com/in/%F0%9F%92%BBcristiano-roger-00117b193/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
-  ![Animação de cobra](https://github.com/Cristiano-roger/Cristiano-roger/blob/output/github-contribution-grid-snake.svg)
+  
 
 </div>
